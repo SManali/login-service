@@ -1,0 +1,25 @@
+{
+    "name": "login-service",
+    "version": "0.0.1",
+    "description": "Login service application  using Node.js and expressJS",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "build-project": "yarn"
+    },
+    "repository": {
+        "type": "git"
+    },
+    "author": {
+        "email": "sutar.manali@gmail.com",
+        "name": "Manali Sutar"
+    },
+    "keywords": [
+        "node",
+        "express"
+    ],
+    "dependencies": {
+        "express": "4.17.1",
+        "mongoose": "5.6.5"
+    }
+}
